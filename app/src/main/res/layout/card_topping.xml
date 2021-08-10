@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.material.card.MaterialCardView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_topping"
     android:layout_width="match_parent"
     android:layout_height="200dp"
     android:layout_marginHorizontal="16dp"
     android:layout_marginVertical="8dp"
     android:padding="5dp"
-    app:cardElevation="10dp"
-    android:id="@+id/card_topping"
-    >
+    app:cardElevation="10dp">
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="200dp"

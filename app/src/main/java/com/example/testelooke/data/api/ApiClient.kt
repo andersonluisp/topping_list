@@ -1,6 +1,5 @@
 package com.example.testelooke.data.api
 
-import androidx.viewbinding.BuildConfig
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

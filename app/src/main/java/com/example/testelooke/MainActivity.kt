@@ -2,7 +2,7 @@ package com.example.testelooke
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.testelooke.ui.main.MainFragment
+import com.example.testelooke.ui.main.fragment.MainFragment
 
 class MainActivity : AppCompatActivity() {
 
