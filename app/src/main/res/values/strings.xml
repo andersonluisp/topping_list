@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TesteLooke</string>
+    <string name="label_topping_types">Our topping types</string>
+    <string name="import_data_error_message">Error importing data.\nTry again later.</string>
 </resources>
